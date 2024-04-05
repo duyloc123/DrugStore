@@ -1,0 +1,2 @@
+Chức năng thêm cần sửa lại phần ngày sinh , với hình ảnh
+Chức năng update
